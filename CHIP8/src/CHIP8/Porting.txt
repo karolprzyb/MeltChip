@@ -1,0 +1,15 @@
+This emulator assumes a little endian cpu is in use.
+The following files may need to be changed depending on platform:
+
+allInclude.h - Thats were you'r includes go!
+
+randgen.cpp - Has the fairly portable rand() function however its seeded with time(0) which is not portable
+
+
+
+
+
+
+NOTE: The opCode to draw sprites to the screen is really big.... Could use some more efficient routine?
+Maybe not, although there is a lot of code the operations are low level. Cant think of a way to get around this other than bitfields which could require more calculations.
+Unless I find it gives me performance problems I think I will just leave it alone.

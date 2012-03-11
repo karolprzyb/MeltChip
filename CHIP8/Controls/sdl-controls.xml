@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emulation version="1">
+<key x="0" y="344" width="64" height="64" sym="49" mod="0" scancode="75" unicode="0" >  </key>
+<key x="0" y="408" width="64" height="64" sym="52" mod="0" scancode="75" unicode="0" >  </key>
+<key x="0" y="472" width="64" height="64" sym="55" mod="0" scancode="75" unicode="0" >  </key>
+<key x="0" y="536" width="64" height="64" sym="97" mod="0" scancode="75" unicode="0" >  </key>
+
+<key x="64" y="344" width="64" height="64" sym="50" mod="0" scancode="75" unicode="0" >  </key>
+<key x="64" y="408" width="64" height="64" sym="53" mod="0" scancode="75" unicode="0" >  </key>
+<key x="64" y="472" width="64" height="64" sym="56" mod="0" scancode="75" unicode="0" >  </key>
+<key x="64" y="536" width="64" height="64" sym="48" mod="0" scancode="75" unicode="0" >  </key>
+
+<key x="128" y="344" width="64" height="64" sym="51" mod="0" scancode="75" unicode="0" >  </key>
+<key x="128" y="408" width="64" height="64" sym="54" mod="0" scancode="75" unicode="0" >  </key>
+<key x="128" y="472" width="64" height="64" sym="57" mod="0" scancode="75" unicode="0" >  </key>
+<key x="128" y="536" width="64" height="64" sym="98" mod="0" scancode="75" unicode="0" >  </key>
+
+<key x="192" y="344" width="64" height="64" sym="99" mod="0" scancode="75" unicode="0" >  </key>
+<key x="192" y="408" width="64" height="64" sym="100" mod="0" scancode="75" unicode="0" >  </key>
+<key x="192" y="472" width="64" height="64" sym="101" mod="0" scancode="75" unicode="0" >  </key>
+<key x="192" y="536" width="64" height="64" sym="102" mod="0" scancode="75" unicode="0" >  </key>
+
+</emulation>
